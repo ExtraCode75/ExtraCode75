@@ -1,16 +1,12 @@
-## Hi there 👋
+![GitHub Statistics:](https://github-readme-stats.vercel.app/api?username=ExtraCode75&theme=prussian)
 
-<!--
-**ExtraCode75/ExtraCode75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Heya, Pal! The name's ExtraCode, call me Excode for short. 👋
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on modifying FNF
+- 🌱 I’m currently learning code
+- 👯 I’m looking to collaborate on Friday Night Funkin'
+- 🤔 I’m looking for help with code (mostly)
+- 💬 Ask me about Friday Night Funkin' (FNF) stuff
+- 📫 How to reach me: [Not Available Yet]
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I made this GitHub account 2 years ago
